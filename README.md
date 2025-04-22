@@ -1,4 +1,4 @@
-# GLaDOS 自动签到，实现无限白嫖
+# GLaDOS 自动签到，实现无限白嫖.
 
 原仓库地址：https://github.com/lukesyy/glados_automation
 
